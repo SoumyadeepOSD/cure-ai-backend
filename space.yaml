@@ -1,0 +1,6 @@
+sdk: docker
+title: Lung Cancer Predictor
+emoji: 🫁
+python_version: "3.10"
+app_file: app/main.py
+pinned: false
