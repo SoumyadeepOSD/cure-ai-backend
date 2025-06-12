@@ -4,7 +4,7 @@ import tensorflow as tf
 from huggingface_hub import hf_hub_download
 
 MODEL_LOCAL_PATH = "app/models/VGG16.h5"
-REPO_ID = "SoumyadeepOSD123/vgg16-lung-cancer-model"
+REPO_ID = "SoumyadeepOSD123/lung-cancer-vgg16-model"
 FILENAME = "VGG16.h5"
 
 def load_model_once():
