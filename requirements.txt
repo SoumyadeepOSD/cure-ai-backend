@@ -9,3 +9,7 @@ langchain-google-genai
 huggingface_hub
 httpx
 python-multipart
+reportlab
+transformers
+torch
+groq
