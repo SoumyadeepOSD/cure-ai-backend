@@ -12,8 +12,6 @@ short_description: It's a vgg16 model of predicting lung cancer from images
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
-# lung-cancer-backend
-# lung-cancer-backend
 # cure-ai-backend
 
 # Lung Cancer Detection System
@@ -90,7 +88,4 @@ GOOGLE_API_KEY=your_google_api_key
 
 ## System Architecture Pseudocode
 
-![System Workflow Diagram]({B7E4AE99-083C-40A5-8FFD-BC6A77C65D1C}.png) %% REPLACE THIS WITH THE ACTUAL IMAGE PATH
-
-### 1. Backend API (FastAPI)
-```
+![{B7E4AE99-083C-40A5-8FFD-BC6A77C65D1C}](https://github.com/user-attachments/assets/2b7d4444-f445-4dfb-b699-313f3d1a3719)
