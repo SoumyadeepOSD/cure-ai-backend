@@ -2,5 +2,4 @@ venv/
 myenv/
 __pycache__/
 *.pyc
-*.h5
 .env
