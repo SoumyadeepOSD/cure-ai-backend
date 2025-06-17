@@ -1,0 +1,17 @@
+venv/
+myenv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.git/
+.vscode/
+.qodo/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.pdf
+test.jpg 
